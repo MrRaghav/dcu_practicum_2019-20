@@ -7,13 +7,20 @@ Natural Language Processing - text classification and machine translation
 Tools, Technologies and Algorithms:
 -----------------------------------
 Data collection, annotation
+
 Data processing - stopwords, special characters, numbers, lemmatisation, tokenization
+
 Similarity network - dice coefficient and word2vec
+
 graph based classifiers - min cut max flow, random walk
+
 fasttext classifier
+
 neural network classifiers - ANN, CNN, Bi-LSTM
+
 basic classifiers - Naive Bayes, Logistic regression, decision tree, support vector machine, random forest
-machine translation - Amazon sockeye, google, microsoft, yandex
+
+machine translation - Amazon sockeye
 
 Metrics used:
 -------------
